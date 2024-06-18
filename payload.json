@@ -1,0 +1,8 @@
+{
+  "magnitude_base": 5.5,
+  "incerteza_posicao": 0.2,
+  "incerteza_momento": 0.1,
+  "estados_possiveis": ["estado1", "estado2", "estado3"],
+  "padrao_magnetico": "normal",
+  "entanglement_presente": true
+}
